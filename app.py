@@ -25,7 +25,7 @@ from .worker_monitor import WorkerMonitor
 
 APP_TITLE = "NERC TPL CA - Dominion Energy"
 APP_SUBTITLE = "PowerWorld contingency-analysis setup"
-APP_VERSION = "2026.11.02.1"
+APP_VERSION = "2026.11.02.2"
 # Match the team's desktop-tool palette; assets resolve in source or the bundled
 # PyInstaller layout because they are packaged alongside the application modules.
 NAVY = "#0B2F5B"
